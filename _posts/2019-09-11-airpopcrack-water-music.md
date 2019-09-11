@@ -2,7 +2,7 @@
 layout: post
 title:  Air.Pop.Crack. Episodio 8: Water Music
 category: playlist
-published: false
+published: true
 ---
 
 ![radio_water_music](images/radio_water_music.jpg)
@@ -19,3 +19,6 @@ Escucharemos también dos versiones de la composición ‘Weight’ del álbum O
 Titanic Lament hace parte de uno de los trabajos de la obra ‘ The Sinking of the Titanic’ de Gavin Bryars, quien a través de las décadas se ha embarcado en la investigación sobre el sonido de los últimos momentos del hundimiento del titanic. Sus exploraciones abarcan desde el repertorio que el conjunto de cuerdas interpretaba durante el hundimiento, hasta posibles maneras de recrear la difusión del sonido en altamar en el norte del atlántico, tanto encima como debajo del agua.
 
 Por último un fragmento de un performance de Hana Hartman en Berlin en 2018. Hartman es una compositora y artista sonora sueca radicada en Alemania. Sus performance en vivo incluye objetos no convencionales que activa frotando, soplando o, por ejemplo, dejando caer monedas huecas en delgadas columnas metálicas.
+
+
+<a class="spreaker-player" href="https://www.spreaker.com/user/cordilleraradio/watermusic" data-resource="episode_id=19069383" data-theme="light" data-autoplay="false" data-playlist="false" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/30adaa286c201ac7dba86505062530bb.jpg" data-width="100%" data-height="400px">Listen to "Episodio 7: Water Music" on Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
