@@ -2,6 +2,7 @@
 layout: post
 title:  Air, Pop, Crack Episodio 8: Water Music
 category: playlist
+published: true
 ---
 
 ![watermusic](/images/radio_water_music.jpg)
