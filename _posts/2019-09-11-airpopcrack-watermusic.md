@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Air.Pop.Crack. Episodio 8: Water Music
+title:  Air, Pop, Crack Episodio 8: Water Music
 category: playlist
 ---
 
-![radio_water_music](images/radio_water_music.jpg)
+![watermusic](images/radio_water_music.jpg)
 
 Water music, una selección de piezas trabajando con el concepto de agua en sus composiciones. 
 
