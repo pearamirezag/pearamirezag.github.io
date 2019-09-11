@@ -3,6 +3,7 @@ layout: post
 title:  Air, Pop, Crack Episodio 8: Water Music
 category: playlist
 published: true
+date: 2019-09-11 12:00:00 -0500
 ---
 
 ![watermusic](/images/radio_water_music.jpg)
