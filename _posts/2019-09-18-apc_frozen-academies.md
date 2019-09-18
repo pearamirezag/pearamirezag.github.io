@@ -5,7 +5,7 @@ tag: podcast
 published: true
 ---
 
-![frozen_academies](images/Frozen_academies.jpg)
+![frozenacademies](/images/Frozen_academies.jpg)
 
 Architecture is frozen music” Wolfgang von Goethe
 
