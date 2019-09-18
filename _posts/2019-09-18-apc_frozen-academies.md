@@ -20,14 +20,25 @@ En este programa escucharemos manifestos, difusiones radiofónicas, registros de
 Playlist:
 
 Allan Kaprow - How to make a Happening 
+
 Christian Marclay - Record Without a Cover
+
 Mike Kelley - The Peristaltic Airwaves
+
 Mugre - Minuto de Dios
+
 Malcolm Middleton & David Shirley - The Story
+
 Joseph Beuys - Ja Ja Ja Ne Ne Ne
+
 Martin Kippenberger - Ja, Ja, Ja, Nee, Nee, Nee (Für Die Jugend)
+
 Mark Leckey - Soundtrack for GreenScreenRefrigerator 2010
+
 Anne Imhof, Cast of Faust - Suicide is Painless
+
 Elkin Calderón, Adriana García Galán - Soy Rebelde 
+
 Bruce Nauman - Thank You
 
+<a class="spreaker-player" href="https://www.spreaker.com/user/cordilleraradio/frozenacademies" data-resource="episode_id=19139655" data-theme="light" data-autoplay="false" data-playlist="false" data-cover="https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/481c85953779300a2365f0570ed18ca6.jpg" data-width="100%" data-height="400px">Escucha"Episodio 9: Frozen Academies" en Spreaker.</a><script async src="https://widget.spreaker.com/widgets.js"></script>
