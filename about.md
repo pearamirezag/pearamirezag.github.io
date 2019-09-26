@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-![portrait](/images/Bild.jpeg)
+
+<img src="/images/Bild.jpeg" alt="portrait" width="500"/>
+
 Visual and sound artist from Bogotá, Colombia.
 
 Interested in noise music, illustration and sound generating devices
