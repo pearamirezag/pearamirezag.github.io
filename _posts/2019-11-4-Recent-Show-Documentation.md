@@ -5,9 +5,10 @@ tag:
 published: true
 ---
 
-
+<div align = "center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YoH43RJrYm8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
+<br>
 It's been a long time since I publish something in here, but I would like to keep
 things moving. Since I don't record my music that much I think it could be interesting
 to share about videos and audio that has been recorded from my live shows:
@@ -18,19 +19,32 @@ Actually there are a several videos of this date, some with better quality than 
 <br>
 <br>
 This video got a got general impression of how the concert sounded but I personally loved the last minute recorded by Juan Manuel Jaramillo:
-![amgn_matik](/pearamirezag.github.io/images/amgn_190907.MP4)
+<i>(warning: Loud volume video)</i>
+
+
+<div align = "center" class="myvideo">
+   <video controls muted style="display:block; width:560; height:auto;" autoplay controls loop="loop">
+       <source src="/images/amgn_190907.MP4" />
+   </video>
+</div>
+
+
 I think it captured the high level volume of the excellent sound system in Matik-Matik.
 <br>
 <br>
 On the technical side of things, I'm really enjoying the stutter pedal programming I did on my Axoloti-driven pedal.
 <br>
 It's the metal box in the right, with the knobs and the footswitches
-![amgn_setup](/images/190905_amgn_setup.jpg)
+![amgn_setup](/images/190905_amng_setup.JPG)
+<br>
 Since I got that board, around 2016 after my trip to Germany, I was really interested into programming my own stutter, granular and other
 buffer-modification effects but never actually got it to work out. Recently, after exploring Max/Msp again, finally understood typical applications for buffer and made myself a stutter pedal
 with Ring Modulation :)
 
+<div align = "center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zh1uMhxQ23k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
 This was another concert of mine recorded last week in which I was invited sporadically to the "Taller de Alto Desempleo" concert sessions organized by my friend Daniel Piedrahita in his art-studio in Rat Trap.
 One of the conditions of the concerts is to play music at moderate levels of volume, just because his atelier is in a residential area and it's not acoustically prepared for loud concerts.
 My take on this challenge was to play music on a Bose Soundlink+ system, in mono, and use the built-in iPhone. I really liked the quality of the recording although the details of the sounds out of my phone were not captured.
