@@ -4,7 +4,7 @@ title: Lo mejor del 2019
 tag:
 published: true
 ---
-
+Sin algún orden en particular, estos fueron los álbumes que más rodaron en mis reproductores de música este año:
 
 João gilberto - João Gilberto (1973)
 -------
