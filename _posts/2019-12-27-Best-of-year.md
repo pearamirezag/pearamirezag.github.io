@@ -1,0 +1,97 @@
+---
+layout: post
+title: Lo mejor del 2019
+tag:
+published: true
+---
+
+
+João gilberto - João Gilberto (1973)
+-------
+
+![joaogilberto](images/joaogilberto_1973.jpg)
+<br>
+Ya era fan de la música del Gilberto pero no conocía más allá de su música más popular. Este álbum lo descubrí el día de su muerte y siento que logra capturar precisamente las características de un performance íntimo y emocional. Undiú es uno de mis temas favoritos puesto que sólo va, afuera del lenguaje, repitiendo esa palabra a través de sutiles cambios de acordes. Su voz es cantada tan suave que se craquela en momentos y le da al álbum una impresión de intimidad y vulnerabilidad inefable.
+
+Kali Malone -The Sacrificial Code 
+--------
+![kalimalone](images/kalimalone_sacrificial.jpg)
+<br>
+Hay cosas que me desconciertan de la música de Malone. La ausencia de dinamismo, la riqueza del tono, los pasajes estáticos y los batidos de la entonación justa. Aún cuando me propuse dejar la escucha de este álbum en un segundo plano, quedé paralizado esta mañana observando la nada. Sintiendo esos batidos resonando en mi vientre, en mis manos sobre el teclado. Siempre he admirado a Malone por su madurez y claridad visión artística. Tan transparente y elocuente de alguien tan joven. Este álbum me resulta perfecto por su misma capacidad de estirar la experiencia del tiempo con patrones compuestos para los juncos del órgano. 
+
+Celer - Xièxie
+----
+![celer](images/celer_xiexie.jpg)
+<br>
+Este álbum fue la coloración favorita del espacio este año. 
+
+
+Jon Collin - From a Petrified Forest
+-----
+![joncollin](images/joncollins_petrified.jpg)
+<br>
+Desde un bosque petrificado, mediationes de guitarra diseminadas en un ancho paisaje natural. Abstracciones de blues que me remiten a la nostalgia de Mazzacane Connors y a la quietud de los compositores Wandelweiser. Justo antes de empezar a escribir este comentario descubro que Collins es sueco y visualizo la sobriedad aquel paisaje. 
+
+Kim Gordon - No Home Record
+------
+![kimgordon](images/kimgordon_nohomerec.jpg)
+<br>
+Este álbum me tomó por sorpresa este año. Una mirada refrescante al estilo vocal y las influencias No-Wave de Gordon. Me interesaron particularmente las eclécticas influencias que se sienten a lo largo del álbum.
+
+Liturgy - H.A.Q.Q.
+------
+![liturgy](images/liturgy_haqq.jpg)
+<br>
+Aesthethica llegó en un momento cuando se me quedaba corta la música. Todo lo encontraba homogéneo y no veía un nexo fuerte entre el hardcore/metal/punk y la música de vanguardia que escuchaba en ese entonces. 
+A través de la música, los documentos y entrevistas a Hunt-Hendrix se iluminaron mis ojos al contemplar una mente tan brillante con conexiones tan acertadas. 
+Sin embargo en ese entonces todo seguía siendo críptico y el internet sólo vomitaba odio. Ahora pareciera que este es el año dorado para entender la música de Liturgy pues Hunt-Hendrix ha decidido no sólo publicar extensos documentos en su página si no que inició un podcast, abrió una página de preguntas anónimas y parece estar más abierto que nunca a compartir sobre su cosmovisión. 
+HAQQ tiene todo lo bueno de Aesthethica y todo lo bueno de the Ark Work. Burst Beats, Stutters Glitch y estructuras narrativas increíbles en la composición. 
+
+Michael Morley - We are here because of you (2018)
+----------
+![morley](images/michaelmorley_.jpg)
+<br>
+Escojo este álbum, pero descubrir su música fue de mis grandes sucesos del 2019 
+
+Pissgrave - Posthumous Humiliation
+----------
+![pissgrave](images/Pissgrave.jpg)
+<br>
+Usualmente busco los extremos en la música, pues es allí donde encuentro los elementos más interesantes. En este caso de maximalismo puro me atrae la música de Pissgrave.
+Hiperdensa y deformada violentamente. Sus portadas me cautivan como espejo gráfico de su asalto sonoro. 
+Revisando su discografía en youtube encontré un comentario singular haciendo alusión a una foto de un cuerpo humano disuelto en una piscina de ácido: 
+<br>
+>*"Alguna vez me emocioné por el gore y esas cosas, pero una vez empiezas a practicar el ocultismo y trasciendes la visión del mundo materialista, 
+el gore, el cuerpo humano no resulta siendo nada más que muebles, por tanto esta foto es tan interesante como una mesa rota, o la espuma de adentro de un cojín roto… aburrido, eh?"*
+
+Sickness - I Have Become the Disease that Made Me. (2002)
+------------
+![sickness](images/sicknes.jpg)
+<br>
+Joya del harsh noise norteamericano. 
+
+
+Death Kneel - Adaptive Emotional Use
+------------
+![deathkneel](images/death_kneel.jpg)
+
+
+Oren Ambarchi, Mark Fell, Will Guthrie y Sam Shalabi - OGLON DAY
+-------------
+![oglon](images/oglon_day.jpg)
+<br>
+Mi lanzamiento favorito "Bailable" del año. Me sorprende cada vez lo bien que se conectan los diversos estilos de los colaboradores de este proyecto. 
+
+
+France- Pau (2011)
+------
+![france](images/france_pau.jpg)
+<br>
+Un gran descubrimiento que le agradezco a Sebastián "de la Loma". France es una de esas bandas que hace lo que siempre quise hacer. Una idea vieja para un disco de Opaal que nunca salió. 
+
+Elia y Elizabeth 
+------
+![elizabeth](images/elia_y_elizabeth.jpg)
+<br>
+Un disco Colombiano de los setentas, reeditado recientemente por un sello español. Escuché este álbum repetidamente tratando de imaginarme dos hermanas adolescentes escribiendo canciones en un Barranquilla de hace 45 años. Realmente todo el disco es una joya. Canciones con letras inocentes e infantiles con misterio y dulzura. 
+ 
