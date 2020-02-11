@@ -17,6 +17,8 @@ As everything described on this blog, I don't care whether it's good or not. My 
 <br>
 I share the comic in this fancy 3d render because the software I use offers it and actually looks pretty similar to the actual printed one. And as I'm paying for the software, better use the tools they offer hehe
 <br>
+The title is a reference from a [Derek Bailey's song](https://youtu.be/4KFPLJkH2fI?t=1593) on the Aida record. Actually the shirt of the guy in the cover says Aida as well. 
+
 ######Things to do next time: 
 
 Try to figure out a more straight forward narrative. I come from an art comic world and to be honest I've been way more interested in the visual part of the drawings than the stories themselves. In this one I've found myself struggling with the end. It was extremely difficult to make a shocking end without making a reminiscence of Junju Ito's work lol. Also as the reader may already noticed, the speech bubbles are empty. I really couldn't figure out what to fit in but on the other hand I enjoy the suggestion that the characters are talking.
