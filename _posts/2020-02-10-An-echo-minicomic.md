@@ -4,7 +4,7 @@ title:  An Echo on Another's mind
 tag: art
 published: true
 ---
-![an_echo](images/murmur_vol4_AEIAM.jpg)
+![an_echo](/images/murmur_vol4_AEIAM.jpg)
 <br>
 Yesterday I was sharing with friends and found myself in a room. The same room I was partying 5 years ago.
 At that time, halfway through my fine art studies I was filled with hope: I wanted to apply to an exchange program abroad, the comic book editorial with our friends was just starting out and my then-active bands were at it's peak of creativity. 
