@@ -2,7 +2,7 @@
 layout: post
 title:  An Echo on Another's mind
 tag: art
-published: false
+published: true
 ---
 
 
