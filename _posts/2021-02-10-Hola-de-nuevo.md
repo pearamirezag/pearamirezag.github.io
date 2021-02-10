@@ -11,13 +11,15 @@ I decided to keep mine, to subjectivize myself towards the action of self-writin
 <br>
 There's been a lot of things I've been meaning to write, but today i will share something simple:
 <br>
+<br>
 ![day](/images/noisoto_1.jpeg)
 <br>
 Several weeks ago, me alongside Oto Duarte, recorded some Harsh Noise, Electronic, drums and objects jam. The original goal is to make a track for a compilation of noisy tracks around the punk cosmology.
 It was plenty fun. The real challenge is to make the actual track... We decided to make it cut-up-ish, in the style of the Harsh Noise trend around late 90s early 2000s.
 <br>
+<br>
 ![apc_max_1.gif](/images/apc_max_1.gif)
-Either way, in my down-times in work I decided to practice my Max-MSP kung-fu by following tutorials on the web and developed a sort of 2d axis multichannel sampler using the mc.2d.wave~ object.
+Either way, I decided to make some experiments with those recordings, running them through several max patches I've been coding over the course of the last months. In this particular example I'm using a multichannel 2d sampler using the object mc.2d.wave~, It lets me to use phasors (some sort of sawtooth wave used mainly for linear control) to control either the playback speed and where the sound is being played. The MC portion of the patch is being used to control the phase and (a)synchronization of each playhed.   
 The orange markers on the waveform portrait the different playheads. I have control of their pitch as well as their position on the sound file.
 The patch is heavily based on a [tutorial](https://youtu.be/0dAQ524sXsU). I only really implemented some bpatchers in order to make the mc part a little more pleasant to the eye and easier to perform with.
 <br>
