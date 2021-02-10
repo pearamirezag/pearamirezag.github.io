@@ -2,7 +2,7 @@
 layout: post
 title:  I'm back!
 tag: art
-published: false 
+published: true 
 ---
 
 Last week I spoke with Sergio about blogs... We shared perspectives and he showed me both [his personal blog](https://drumsoverbogota.com/) as well as an archival of local punk records ([link here](https://elmuladar.com/))
