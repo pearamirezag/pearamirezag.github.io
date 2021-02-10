@@ -8,15 +8,17 @@ published: false
 Last week I spoke with Sergio about blogs... We shared perspectives and he showed me both [his personal blog](https://drumsoverbogota.com/) as well as an archival of local punk records ([link here](https://elmuladar.com/))
 I've been thinking a lot about this particular topic... about a space which is mantained outside corporations and their own particular political interests...
 I decided to keep mine, to subjectivize myself towards the action of self-writing... 
+<br>
 There's been a lot of things I've been meaning to write, but today i will share something simple:
-![day](/images/noiseto_1.jpeg)
+![day](/images/noisoto_1.jpeg)
 <br>
 Several weeks ago, me alongside Oto Duarte, recorded some Harsh Noise, Electronic, drums and objects jam. The original goal is to make a track for a compilation of noisy tracks around the punk cosmology.
 It was plenty fun. The real challenge is to make the actual track... We decided to make it cut-up-ish, in the style of the Harsh Noise trend around late 90s early 2000s.
 <br>
 ![apc_max_1.gif](/images/apc_max_1.gif)
-Either way, in my down-times in work I decided to practice my Max-MSP kung-fu by following tutorials on the web and developed a sort of 2d axis multichannel sampler using the mc.2d.wave~ object
-(s/o to Ned Rush). I only implemented some bpatchers in order to make it a little more pleasant to the eye.
+Either way, in my down-times in work I decided to practice my Max-MSP kung-fu by following tutorials on the web and developed a sort of 2d axis multichannel sampler using the mc.2d.wave~ object.
+The orange markers on the waveform portrait the different playheads. I have control of their pitch as well as their position on the sound file.
+The patch is heavily based on a [tutorial](https://youtu.be/0dAQ524sXsU). I only really implemented some bpatchers in order to make the mc part a little more pleasant to the eye and easier to perform with.
 <br>
 <br>
 
