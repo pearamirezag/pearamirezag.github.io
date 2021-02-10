@@ -27,7 +27,6 @@ The recording I'm about to drop was the first try of an audio file of the rehear
 <audio
   src="/images/hellish.mp3"
   autoplay>
-  Your browser does not support the <code>audio</code> element.
 </audio>
 
 I liked how massive it is, the slow progression towards maximum intensity, the stereo-field which was completely automated...
