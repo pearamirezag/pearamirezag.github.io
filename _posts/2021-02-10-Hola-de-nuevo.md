@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Hola de nuevo
+title:  I'm back!
 tag: art
 published: false 
 ---
@@ -25,7 +25,7 @@ The patch is heavily based on a [tutorial](https://youtu.be/0dAQ524sXsU). I only
 The recording I'm about to drop was the first try of an audio file of the rehearsal in my system. 
 <figure>
     <figcaption>Hellish</figcaption>
-    <audio
+    <audio>
         controls
         src="/images/hellish.mp3">
             Your browser does not support the
