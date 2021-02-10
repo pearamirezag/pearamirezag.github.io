@@ -9,7 +9,7 @@ Last week I spoke with Sergio about blogs... We shared perspectives and he showe
 I've been thinking a lot about this particular topic... about a space which is mantained outside corporations and their own particular political interests...
 I decided to keep mine, to subjectivize myself towards the action of self-writing... 
 There's been a lot of things I've been meaning to write, but today i will share something simple:
-![day](/images/noiseoto_1.jpeg)
+![day](/images/noiseto_1.jpeg)
 <br>
 Several weeks ago, me alongside Oto Duarte, recorded some Harsh Noise, Electronic, drums and objects jam. The original goal is to make a track for a compilation of noisy tracks around the punk cosmology.
 It was plenty fun. The real challenge is to make the actual track... We decided to make it cut-up-ish, in the style of the Harsh Noise trend around late 90s early 2000s.
