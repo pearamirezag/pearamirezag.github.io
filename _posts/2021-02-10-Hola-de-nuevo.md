@@ -23,15 +23,12 @@ The patch is heavily based on a [tutorial](https://youtu.be/0dAQ524sXsU). I only
 <br>
 
 The recording I'm about to drop was the first try of an audio file of the rehearsal in my system. 
-<figure>
-    <figcaption>Hellish</figcaption>
-    <audio>
-        controls
-        src="/images/hellish.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+
+<audio
+  src="/images/hellish.mp3"
+  autoplay>
+  Your browser does not support the <code>audio</code> element.
+</audio>
 
 I liked how massive it is, the slow progression towards maximum intensity, the stereo-field which was completely automated...
 It's a kind of tribute on the work of [Carl Stone](https://youtu.be/15ijY1HqzgQ), a composer known for his extensive use of the 2d.wave~ object
