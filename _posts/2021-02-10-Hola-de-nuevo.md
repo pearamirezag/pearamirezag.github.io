@@ -10,6 +10,7 @@ I've been thinking a lot about this particular topic... about a space which is m
 I decided to keep mine, to subjectivize myself towards the action of self-writing... 
 <br>
 There's been a lot of things I've been meaning to write, but today i will share something simple:
+<br>
 ![day](/images/noisoto_1.jpeg)
 <br>
 Several weeks ago, me alongside Oto Duarte, recorded some Harsh Noise, Electronic, drums and objects jam. The original goal is to make a track for a compilation of noisy tracks around the punk cosmology.
@@ -24,9 +25,10 @@ The patch is heavily based on a [tutorial](https://youtu.be/0dAQ524sXsU). I only
 
 The recording I'm about to drop was the first try of an audio file of the rehearsal in my system. 
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/982952143%3Fsecret_token%3Ds-FZzAhJdtmRY&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/pedro-ram-rez" title="Pedro Ramírez" target="_blank" style="color: #cccccc; text-decoration: none;">Pedro Ramírez</a> · <a href="https://soundcloud.com/pedro-ram-rez/hellishmp3/s-FZzAhJdtmRY" title="Hellish.mp3" target="_blank" style="color: #cccccc; text-decoration: none;">Hellish.mp3</a></div>
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/982952143%3Fsecret_token%3Ds-FZzAhJdtmRY&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/pedro-ram-rez" title="Pedro Ramírez" target="_blank" style="color: #cccccc; text-decoration: none;">Pedro Ramírez</a> · <a href="https://soundcloud.com/pedro-ram-rez/hellishmp3/s-FZzAhJdtmRY" title="Hellish.mp3" target="_blank" style="color: #cccccc; text-decoration: none;">Hellish.mp3</a></div>
 <br>
 I liked how massive it is, the slow progression towards maximum intensity, the stereo-field which was completely automated...
 It's a kind of tribute on the work of [Carl Stone](https://youtu.be/15ijY1HqzgQ), a composer known for his extensive use of the 2d.wave~ object
+<br>
+As of today, I already finished one candidate, I will upload it soon I guess... 
 
