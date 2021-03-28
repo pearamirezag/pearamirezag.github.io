@@ -11,7 +11,7 @@ Last week i gathered with a friend because she wanted a drawing of mine. We dran
 
 I mean, the point in this post is to release a feeling I'm holding right now... I could publish them on instagram, yeah sure, each by each, but why?... Why share at all? Make them public so I can grow my "audience" somehow (?), to receive likes from the same 5 people who are aware and care of what I do (?) (don't get me wrong, I appreciate a lot their support). Isn't t
 
-My mind is troubled because I' deviated from my newly acquired mindset of 
+My mind is troubled because I've been deviating from my newly acquired mindset of 
 
 _*chop wood and carry water*_ 
 
@@ -30,4 +30,4 @@ Drawing water and chopping wood.”
 > “How miraculous and wondrous,
 Hauling water and carrying firewood!”
 
-Extraído de [este blog](https://www.sloww.co/enlightenment-chop-wood-carry-water/)
+Extracted from [este blog](https://www.sloww.co/enlightenment-chop-wood-carry-water/)
